@@ -1,0 +1,46 @@
+#-------------------------------
+# General Site Settings
+title: Sloth
+# logo: logo.svg # You can add own logo.
+description: Im Man Yi Personal Website
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Im Man Yi, Ashlyn
+  image: imim1.jpg
+  say-hello: Hello, I’m <strong>Ashlyn Im</strong>
+  bio: A Traveller, Hiker & Rock Climber. <br/><br/><i>"And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about."</i><br/>― Haruki Murakami, Kafka on the Shore
+  # Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+
+
+#-------------------------------
+# Contact links
+# twitter: https://twitter.com/ 
+facebook: https://www.facebook.com/immanyi 
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/imiminx 
+linkedin: https://www.linedin.com/in/ashlyim 
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: False # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: imiminx # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
