@@ -4,7 +4,7 @@
       "title"    : "Post Template 3",
       "category" : "",
       "tags"     : "Style",
-      "url"      : "/zolan/2018/07/19/Template_3/",
+      "url"      : "/blog/2018/07/19/Template_3/",
       "date"     : "19 Jul, 2018"
     } ,
   
@@ -12,7 +12,7 @@
       "title"    : "Post Template 2",
       "category" : "",
       "tags"     : "Style",
-      "url"      : "/zolan/2018/06/25/Template_2/",
+      "url"      : "/blog/2018/06/25/Template_2/",
       "date"     : "25 Jun, 2018"
     } ,
   
@@ -20,7 +20,7 @@
       "title"    : "Post Template 1",
       "category" : "",
       "tags"     : "Jekyll",
-      "url"      : "/zolan/2018/05/29/Template_1/",
+      "url"      : "/blog/2018/05/29/Template_1/",
       "date"     : "29 May, 2018"
     } 
   
