@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About Me
+navheader: About Me
+title: About Me Test
 permalink: /aboutme/
 banner: ashlyn_im_github_banner.png
 ---
