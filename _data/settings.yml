@@ -9,10 +9,9 @@ description: Ashlyn Im Personal Website
 # Author Settings
 author:
   name: Im Man Yi, Ashlyn
-  image: imim1.jpg
-  say-hello: Hello, I’m <strong>Ashlyn Im</strong>
-  bio: A Traveller, Hiker & Rock Climber. <br/><br/><i>"And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about."</i><br/>― Haruki Murakami, Kafka on the Shore
-  # Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  image: ashlynim_homepage.jpg
+  say-hello: Hello, I’m <strong>Ashlyn</strong>
+  bio: A traveller and programmer. <br/><br/> Switches my career path from business to tech and writes about <strong>data science</strong> and <strong>software engineer</strong>. I share experiences and hope to inspire futurepreneur in the tech industry.
 
 
 #-------------------------------
@@ -21,7 +20,7 @@ author:
 facebook: https://www.facebook.com/immanyi 
 # dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/imiminx 
-linkedin: https://www.linedin.com/in/ashlyim 
+linkedin: https://www.linedin.com/in/ashlynim 
 # pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
