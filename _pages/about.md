@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /ashlynim/aboutme/
+permalink: /aboutme/
 image: ashlyn_im_github_banner.png
 ---
 
