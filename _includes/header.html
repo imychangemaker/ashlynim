@@ -29,9 +29,9 @@
               </li>
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
-              {% if page.title %}
+              {% if page.navheader %}
               <li class="nav__item">
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.navheader }}</a>
               </li>
               {% endif %}
                 {% endunless %}
