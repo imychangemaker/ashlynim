@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /ashlynim/aboutme/
-image: imim4.jpg
+image: ![ashlyn_im_github_banner](https://user-images.githubusercontent.com/48016878/210190189-6e73724b-5b9a-4b59-86e1-417d10d4eb1d.png)
 ---
 
 Hi, my name is Im Man Yi. 
