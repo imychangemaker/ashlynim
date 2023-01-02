@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About Me
 permalink: /aboutme/
 image: ashlyn_im_github_banner.png
 ---
