@@ -1,5 +1,6 @@
 ---
 layout: page
+navheader: Style Guide
 title: Style Guide
 permalink: /styleguide/
 image: 08.jpg
