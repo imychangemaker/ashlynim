@@ -2,7 +2,7 @@
 layout: page
 navheader: Projects
 permalink: /projects/
-image: ashlynim_projects.jpg
+image: ashlynim_projects1.jpg
 ---
 
 <div>
