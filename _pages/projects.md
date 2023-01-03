@@ -17,14 +17,16 @@ image: ashlynim_projects2.jpg
   <p align="left">
     <b><em>Graduate: Carnegie Mellon Univerisity</em></b>
   </p>
-  <p>
-    <a href="https://github.com/imychangemaker/cmu-social-media-listening">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imychangemaker&repo=cmu-social-media-listening" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/imychangemaker/cmu-doornext">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imychangemaker&repo=cmu-doornext" alt="GitHub Stats" />
-    </a>
-  </p>
+  <div>
+    <p>
+      <a href="https://github.com/imychangemaker/cmu-social-media-listening">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imychangemaker&repo=cmu-social-media-listening" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/imychangemaker/cmu-doornext">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imychangemaker&repo=cmu-doornext" alt="GitHub Stats" />
+      </a>
+    </p>
+  </div>
   <hr>
   <p align="left">
     <b><em>Undergraduate: Hong Kong University of Science and Technology</em></b>
