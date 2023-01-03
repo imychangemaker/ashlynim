@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 navheader: Style Guide
 title: Style Guide
@@ -92,3 +92,4 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 *Backyard*
 
 ***
+ -->
