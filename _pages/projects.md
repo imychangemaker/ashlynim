@@ -2,13 +2,13 @@
 layout: page
 navheader: Projects
 permalink: /projects/
-image: ashlynim_projects1.jpg
+image: ashlynim_projects2.jpg
 ---
 
 <div>
   <h2 align="center">GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imychangemaker" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imychangemaker" alt="GitHub Stats" />
   </p>
 </div> 
 
