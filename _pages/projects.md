@@ -10,7 +10,7 @@ image: ashlynim_projects.jpg
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=imychangemaker" alt="GitHub Stats" /> <br/><br/>
   </p>
-</div>
+</div> 
 
 <div>
   <h2 align="center">Projects</h2>
