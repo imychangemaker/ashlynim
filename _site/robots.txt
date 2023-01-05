@@ -1,1 +1,1 @@
-Sitemap: /blog/sitemap.xml
+Sitemap: imychangemaker.github.io/sitemap.xml
