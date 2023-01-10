@@ -5,22 +5,8 @@ date:   2022-01-05 18:05:55 +0300
 image:  10.jpg
 tags:   General
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+One of my new year resolutions in 2023 is to write about my experiences and share with the community. I believe that by sharing and listening to each other, we can empower others to pursue their own career pathway. Turning 25 this year, I feel I have at least some thoughts that I could tell the future generations who are preparing their way to the society, and this is the right time to open my website.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In the upcoming year, I will publish articles in a variety of topics, starting off with the transition from business to tech, challenges, grad school selection, academic studies and so on. I am also planning to discuss some of my experiences in data science and software engineering, for example, how to prepare for the interviews, tips for coding interview etc.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Of course, I'm still new to the industry. Compared to the career coaches on LinkedIn, the articles are documentation to my personal experiences, and hopefully at best some insights for you. Let's stay connected despite the economic downturn.
